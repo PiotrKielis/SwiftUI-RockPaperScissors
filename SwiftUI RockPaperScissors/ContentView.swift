@@ -131,3 +131,5 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
+//do przerobienia logika na pojedyncze warunki, zamiast else if do każdego przypadku
