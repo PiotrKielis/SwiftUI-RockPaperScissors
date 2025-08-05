@@ -132,4 +132,4 @@ struct ContentView: View {
     ContentView()
 }
 
-//do przerobienia logika na pojedyncze warunki, zamiast else if do każdego przypadku
+//do przerobienia logika na pojedyncze warunki, zamiast else if do każdego przypadku + dorobić ViewModifier do Buttonów
